@@ -129,10 +129,6 @@ header nav {
     transition: .5s;
 }
 
-#main-content #product-image.chaging {
-    opacity: 0.5s;
-}
-
 #main-picker {
     margin-bottom: 500px;
 }
